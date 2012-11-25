@@ -1,3 +1,7 @@
+### Buildpack
+
+Using [Erlang buildpack][buildpack] for example application
+
 ### Hello world Erlang web app
 
 To build and run:
@@ -16,3 +20,11 @@ To build and run:
     19:11:46 web.1     | process exiting
     19:11:46 web.1     | process terminated
     19:11:46 system    | terminating
+
+
+### Future
+
+Work on adding [Nitrogen][nitrogen], and test out some ideas.
+
+[buildpack]: https://github.com/heroku/heroku-buildpack-erlang
+[nitrogen]: http://nitrogenproject.com/
